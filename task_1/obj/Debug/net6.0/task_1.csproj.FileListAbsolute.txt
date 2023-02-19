@@ -1,0 +1,15 @@
+/Users/yanina/HomeWork_2/task_1/bin/Debug/net6.0/task_1
+/Users/yanina/HomeWork_2/task_1/bin/Debug/net6.0/task_1.deps.json
+/Users/yanina/HomeWork_2/task_1/bin/Debug/net6.0/task_1.runtimeconfig.json
+/Users/yanina/HomeWork_2/task_1/bin/Debug/net6.0/task_1.dll
+/Users/yanina/HomeWork_2/task_1/bin/Debug/net6.0/task_1.pdb
+/Users/yanina/HomeWork_2/task_1/obj/Debug/net6.0/task_1.csproj.AssemblyReference.cache
+/Users/yanina/HomeWork_2/task_1/obj/Debug/net6.0/task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanina/HomeWork_2/task_1/obj/Debug/net6.0/task_1.AssemblyInfoInputs.cache
+/Users/yanina/HomeWork_2/task_1/obj/Debug/net6.0/task_1.AssemblyInfo.cs
+/Users/yanina/HomeWork_2/task_1/obj/Debug/net6.0/task_1.csproj.CoreCompileInputs.cache
+/Users/yanina/HomeWork_2/task_1/obj/Debug/net6.0/task_1.dll
+/Users/yanina/HomeWork_2/task_1/obj/Debug/net6.0/refint/task_1.dll
+/Users/yanina/HomeWork_2/task_1/obj/Debug/net6.0/task_1.pdb
+/Users/yanina/HomeWork_2/task_1/obj/Debug/net6.0/task_1.genruntimeconfig.cache
+/Users/yanina/HomeWork_2/task_1/obj/Debug/net6.0/ref/task_1.dll
